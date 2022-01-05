@@ -1,7 +1,7 @@
-Nombre: Alejandro Alfonso
+Nombre: Luisa Cristina
 Apellido: Ubeto Yañez
 
-Edad: 19
+Edad: 17
 Nacionalidad: Venezolana
-Cumpleaños: 11 de abril de 2002
+Cumpleaños: 09 de febrero de 2004
 Color de ojos: marrón oscuro
