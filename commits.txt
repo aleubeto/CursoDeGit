@@ -1,0 +1,20 @@
+ale ubeto hizo el commit b4aae11 el dia Tue Jan 4 23:30:29 2022 -0600
+ale ubeto hizo el commit 736830a el dia Tue Jan 4 23:25:24 2022 -0600
+ale ubeto hizo el commit 13f07cc el dia Tue Jan 4 23:16:44 2022 -0600
+commit b4aae117b6ef70b94baa675988da8c8a6bf10099
+Author: ale ubeto <alejo.ubeto@gmail.com>
+Date:   Tue Jan 4 23:30:29 2022 -0600
+
+    Correción nacionalidad de Ale y 3er personaje: Joe
+
+commit 736830ac9782f4ba5fc70d5eeea1542ee79c0688
+Author: ale ubeto <alejo.ubeto@gmail.com>
+Date:   Tue Jan 4 23:25:24 2022 -0600
+
+    Nuevas catacterísticas y 2ndo personaje: Luisa
+
+commit 13f07cc001a1f7aab4107ebb5f223cc4d7c13748
+Author: ale ubeto <alejo.ubeto@gmail.com>
+Date:   Tue Jan 4 23:16:44 2022 -0600
+
+    1er personaje: Ale
