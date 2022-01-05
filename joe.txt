@@ -1,0 +1,7 @@
+Nombre: José Carlos
+Apellido: Ayala May
+
+Edad: 19
+Nacionalidad: Mexicano
+Cumpleaños: 04 de mayo de 2002
+Color de ojos: marrón oscuro
