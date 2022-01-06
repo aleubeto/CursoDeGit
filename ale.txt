@@ -5,3 +5,8 @@ Edad: 19
 Nacionalidad: Venezolano
 Cumpleaños: 11 de abril de 2002
 Color de ojos: marrón oscuro
+
+PS: 50
+Ataque: 100
+Defensa: 40
+Velocidad: 60
