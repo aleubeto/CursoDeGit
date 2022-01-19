@@ -1,0 +1,6 @@
+.
+├── ale.txt
+├── joe.txt
+└── luisa.txt
+
+0 directories, 3 files
