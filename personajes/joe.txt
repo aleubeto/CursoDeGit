@@ -7,6 +7,6 @@ Cumpleaños: 04 de mayo de 2002
 Color de ojos: marrón oscuro
 
 PS: 100
-Ataque: 50
+Ataque: 55
 Defensa: 90
-Velocidad: 30
+Velocidad: 40
